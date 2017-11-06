@@ -7,7 +7,7 @@ SECRET_KEY = 'zv(fl4za1b2)=$h*%ney(#20e!dm*ak0tm2%7b!lvs4fopaco#'
 # Allow all host headers
 ALLOWED_HOSTS = ['*']
 
-DEBUG = False
+DEBUG = True
 
 INSTALLED_APPS = [
     'django.contrib.admin',
