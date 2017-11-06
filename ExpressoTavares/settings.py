@@ -1,5 +1,8 @@
 import os
 
+
+ALLOWED_HOSTS = 'expressotavares.herokuapp.com' 
+
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 SECRET_KEY = 'zv(fl4za1b2)=$h*%ney(#20e!dm*ak0tm2%7b!lvs4fopaco#'
