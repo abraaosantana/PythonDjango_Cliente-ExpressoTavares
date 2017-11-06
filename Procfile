@@ -1,0 +1,1 @@
+web: gunicorn ExpressoTavares.wsgi --log-file -
